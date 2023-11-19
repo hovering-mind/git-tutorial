@@ -2,5 +2,5 @@
 using namespace std;
 
 int main(){
-    cout<<"version 3";
+    cout<<"version 4";
 }
